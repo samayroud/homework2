@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+#wrap{
+	background-position: right 28%;
+	margin: 0 auto;
+	text-align: right;
+}
+
+#nheader{
+	background-image: url('images/header_pic.jpg');
+	background-position: bottom left;
+	background-color: rgb(0, 3, 199);
+	padding: 25px;
+	height: 150px;
+
+}
+
+h1{
+	color:white;
+}
+
+#npara{
+	background-image: url('images/van.jpg');
+	background-attachment: fixed;
+	background-position: bottom left;
+	background-color: rgb(253, 209, 63);
+	height: 350px;
+	padding: 30px;
+}
+.text_para{
+ 	color: white;
+ 	font-size: 20px;
+ 	font-family: verdana;
+ }
+
+
+.redColor{
+ 	color: yellow;
+ }
+
+ #footer{
+
+ 	background-color: rgb(243, 8, 8);
+ 	padding: 35px;
+ }
